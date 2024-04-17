@@ -7,4 +7,4 @@ I'm building [Augmenos](https://www.augmenos.com), a virtual and augmented reali
 - [Beautiful Things FOSS](https://github.com/augmenos/BeautifulThingsFOSS) - Open source template for Beautiful Things visionOS app.
 
 Currently at Spotify in cloud infrastructure procurement and sustainability ☁️🌎.
-Previously at MIT School of Engineering 🤖📚. [Resume/LinkedIn](https://www.linkedin.com/in/mggscm/).
+Previously at MIT School of Engineering 🤖📚. [[Resume](https://www.mggscm.com/resume) and [LinkedIn](https://www.linkedin.com/in/mggscm/).
