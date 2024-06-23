@@ -1,7 +1,7 @@
 ## Hello 👋
 
 I'm building [Augmenos](https://www.augmenos.com), a virtual and augmented reality studio for visionOS and more. Published projects include:
-- [Astronoma](https://www.astronoma.app) - Educational space center with images from the universe, 3D models of spacecrafts, and recreation of the Martian surface.
+- [Astronoma](https://www.astronoma.app) - Space center with images across the universe, 3D models of spacecrafts, and recreation of the Martian surface.
 - [Museas](https://www.museas.com) - Spatial museum with a curated collection of artworks, narrated commentary, and immersive  environments.
 - [Cyberstocks](https://www.augmenos.com/cyberstocks) - Augmented stock market with real-time data, spatial tickers, charts, and themes. 
 - [Mexico Vision](https://www.augmenos.com/mexicovision) - Interactive 3D gallery of Mexican art, culture, and history with multilingual  support.
