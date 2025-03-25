@@ -11,4 +11,4 @@ I'm building [Augmenos](https://www.augmenos.com), a virtual and augmented reali
 - [Augmenos Code](https://github.com/augmenos/AugmenosCode) - Learn visionoS development in-app on Apple Vision Pro with interactive samples. 
 - [Beautiful Things FOSS](https://github.com/augmenos/BeautifulThingsFOSS) - Open source template for Beautiful Things visionOS app.
 
-Currently at Spotify in cloud infrastructure procurement ☁️🌎. Graduate of MIT 🤖📚. [Resume](https://www.mggscm.com/resume) and [LinkedIn](https://www.linkedin.com/in/mggscm/).
+Previously at Spotify in cloud infrastructure procurement ☁️🌎. Graduate of MIT 🤖📚. [Resume](https://www.mggscm.com/resume) and [LinkedIn](https://www.linkedin.com/in/mggscm/).
